@@ -1,6 +1,8 @@
 # bio331-utils
 Utility functions for Reed College Bio331: Computational Systems Biology.
 
+Mina Marden version!
+
 ## QuickStart
 
 These utility functions are used in Bio331, starting with Lab1.  They are wrapper scripts to post graphs to [GraphSpace@Reed](http://ec2-52-41-252-78.us-west-2.compute.amazonaws.com/), a web server for interactive graph sharing and collaboration.
