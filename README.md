@@ -1,5 +1,5 @@
 # bio331-utils
-Utility Functions for Reed College Bio331: Computational Systems Biology.
+Utility functions for Reed College Bio331: Computational Systems Biology.
 
 ## QuickStart
 
