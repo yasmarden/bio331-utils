@@ -13,3 +13,9 @@ Auto-generated documentation is available on the [Bio331 website](http://www.ree
 ## GraphSpace
 
 GraphSpace was originally developed at Virginia Tech.  It is available at (www.graphspace.org) and the source code is available on the [GitHub Page](https://github.com/Murali-group/GraphSpace).
+
+##Overview
+
+- `test.txt` is my test graph.
+- `graph_utils.py` is my module for commonly used graph functions.
+- `file_utils.py` is my module for commonly used file functions.
